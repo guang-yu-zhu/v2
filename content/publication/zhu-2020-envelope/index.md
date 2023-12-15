@@ -1,0 +1,12 @@
+---
+title: "Envelope-based sparse partial least squares"
+date: 2020-02-01
+publishDate: 2023-11-03T00:48:54.832330Z
+authors: ["Guangyu Zhu", "Zhihua Su"]
+publication_types: ["2"]
+abstract: "Sparse partial least squares (SPLS, Chun and Keles, 2010) is a widely used method that performs dimension reduction and variable selection simultaneously in linear regression. Despite its popularity in applied sciences, its theoretical properties are largely unknown. In this paper, we use a connection between envelope models and partial least squares (PLS) to construct an envelope-based SPLS estimator and establish its consistency, oracle property and asymptotic normality. The large-sample scenario and high-dimensional scenario are both considered. We also develop the envelope- based SPLS estimators under the context of generalized linear models, and discuss its theoretical properties including consistency, oracle property and asymptotic distribution. Numerical experiments and examples show that the envelope-based SPLS estimator has better variable selection and prediction performance over the SPLS estimator."
+featured: false
+publication: "*The Annals of Statistics*"
+url_pdf: "https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-1/Envelope-based-sparse-partial-least-squares/10.1214/18-AOS1796.full"
+---
+

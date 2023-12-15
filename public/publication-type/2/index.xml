@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Guangyu Zhu</title>
+    <link>https://guangyuzhu.rbind.io/publication-type/2/</link>
+      <atom:link href="https://guangyuzhu.rbind.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guangyuzhu.rbind.io/media/logo_hu2a24678e1b222f3f1f008b9e470ce441_14757_300x300_fit_lanczos_3.png</url>
+      <title>2</title>
+      <link>https://guangyuzhu.rbind.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Motion-Prediction-Based Wireless Scheduling for Interactive Panoramic Scene Delivery</title>
+      <link>https://guangyuzhu.rbind.io/publication/chen-2023-motion/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://guangyuzhu.rbind.io/publication/chen-2023-motion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The RITA-T (Rapid Interactive Screening Test for Autism in Toddlers) Community Model to Improve Access and Early Identification of Autism in Young Children</title>
+      <link>https://guangyuzhu.rbind.io/publication/choueiri-2023-rita/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://guangyuzhu.rbind.io/publication/choueiri-2023-rita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of significant gene expression changes in multiple perturbation experiments using knockoffs</title>
+      <link>https://guangyuzhu.rbind.io/publication/zhao-2023-identification/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://guangyuzhu.rbind.io/publication/zhao-2023-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changes in rate and socioeconomic inequality of cervical cancer screening in northeastern China from 2013 to 2018</title>
+      <link>https://guangyuzhu.rbind.io/publication/liu-2022-changes/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://guangyuzhu.rbind.io/publication/liu-2022-changes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interrater and Intrarater Agreement of Epileptic Encephalopathy Among Electroencephalographers for Children with Infantile Spasms Using the Burden of Amplitudes and Epileptiform Discharges (BASED) EEG Grading Scale: Study Design and Statistical Considerations</title>
+      <link>https://guangyuzhu.rbind.io/publication/liu-2022-interrater/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://guangyuzhu.rbind.io/publication/liu-2022-interrater/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical likelihood ratio test on quantiles under a density ratio model</title>
+      <link>https://guangyuzhu.rbind.io/publication/zhang-2021-empirical/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://guangyuzhu.rbind.io/publication/zhang-2021-empirical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fishing and habitat condition differentially affect size spectra slopes of coral reef fishes</title>
+      <link>https://guangyuzhu.rbind.io/publication/carvalho-2021-fishing/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://guangyuzhu.rbind.io/publication/carvalho-2021-fishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep-gKnock: Nonlinear group-feature selection with deep neural networks</title>
+      <link>https://guangyuzhu.rbind.io/publication/zhu-2021-deep/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://guangyuzhu.rbind.io/publication/zhu-2021-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Envelope-based sparse partial least squares</title>
+      <link>https://guangyuzhu.rbind.io/publication/zhu-2020-envelope/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://guangyuzhu.rbind.io/publication/zhu-2020-envelope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Envelope quantile regression</title>
+      <link>https://guangyuzhu.rbind.io/publication/ding-2020-envelope/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://guangyuzhu.rbind.io/publication/ding-2020-envelope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Parameter One-Sided Monitoring Tests</title>
+      <link>https://guangyuzhu.rbind.io/publication/zhu-2018-multi/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://guangyuzhu.rbind.io/publication/zhu-2018-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse envelope model: efficient estimation and response variable selection in multivariate linear regression</title>
+      <link>https://guangyuzhu.rbind.io/publication/su-2016-sparse/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://guangyuzhu.rbind.io/publication/su-2016-sparse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

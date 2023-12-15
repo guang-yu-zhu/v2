@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Guangyu Zhu</title>
+    <link>https://guangyuzhu.rbind.io/project/</link>
+      <atom:link href="https://guangyuzhu.rbind.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Nov 2023 17:57:03 -0500</lastBuildDate>
+    <image>
+      <url>https://guangyuzhu.rbind.io/media/logo_hu2a24678e1b222f3f1f008b9e470ce441_14757_300x300_fit_lanczos_3.png</url>
+      <title>Projects</title>
+      <link>https://guangyuzhu.rbind.io/project/</link>
+    </image>
+    
+    <item>
+      <title>SparseEnv</title>
+      <link>https://guangyuzhu.rbind.io/project/sparseenv/</link>
+      <pubDate>Thu, 02 Nov 2023 17:57:03 -0500</pubDate>
+      <guid>https://guangyuzhu.rbind.io/project/sparseenv/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://guang-yu-zhu.github.io/SparseEnv/&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/guang-yu-zhu/SparseEnv/main/img/icon.png&#34; align=&#34;right&#34; width=20%/&gt;&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;SparseEnv&lt;/strong&gt; is a versatile statistical tool that implements advanced techniques from two influential papers:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Su, Z., Zhu, G., Chen, X., &amp;amp; Yang, Y. (2016). Sparse envelope model: efficient estimation and response variable selection in multivariate linear regression. Biometrika, 103(3), 579-593. &lt;a href=&#34;https://academic.oup.com/biomet/article-abstract/103/3/579/1744502&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Guangyu Zhu. Zhihua Su. (2020) &amp;ldquo;Envelope-based sparse partial least squares.&amp;rdquo; Ann. Statist. 48 (1) 161 - 182. &lt;a href=&#34;https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-1/Envelope-based-sparse-partial-least-squares/10.1214/18-AOS1796.full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These papers provide the theoretical foundation for SparseEnv, which bridges theory and practice, offering a comprehensive framework for efficient estimation and response variable selection in multivariate linear regression.&lt;/p&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;devtools&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;install_github&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;guang-yu-zhu/SparseEnv&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deep-gKnock</title>
+      <link>https://guangyuzhu.rbind.io/project/deepgknock/</link>
+      <pubDate>Tue, 09 Mar 2021 17:57:03 -0500</pubDate>
+      <guid>https://guangyuzhu.rbind.io/project/deepgknock/</guid>
+      <description>&lt;p&gt;Feature selection is central to contemporary high-dimensional data analysis. Group structure among features arises naturally in various scientific problems. Many methods have been proposed to incorporate the group structure information into feature selection. However, these methods are normally restricted to a linear regression setting. To relax the linear constraint, we design a new Deep Neural Network (DNN) architecture and integrating it with the recently proposed knockoff technique to perform nonlinear group-feature selection with controlled group-wise False Discovery Rate (gFDR).&lt;/p&gt;
+&lt;h3 id=&#34;procedure&#34;&gt;Procedure&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Generating group knockoff features;&lt;/li&gt;
+&lt;li&gt;Incorporating original features and group knockoff features into a designed DNN architecture. The DNN structure is built upon an MLP with the major distinction that it has a plugin Group-feature Competing Layer.&lt;/li&gt;
+&lt;li&gt;Computing knockoff statistics and filtering out the unimportant groups.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;contribution&#34;&gt;Contribution&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;End-to-end group-wise feature selection and deep representations.&lt;/li&gt;
+&lt;li&gt;Learned neural networks with enhanced interpretability and reproducibility.&lt;/li&gt;
+&lt;li&gt;More computationally feasible neural network.&lt;/li&gt;
+&lt;li&gt;Superior performance in terms of power and controlled gFDR in both linear and nonlinear settings for high-dimensional synthetic and real world genome-wide association studies in the $p\gg n$ regime.&lt;/li&gt;
+&lt;li&gt;Comprehensive experimental results to characterize the performance of our approach with varying key parameters, model architecture changes and robustness to model misspecification.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Guangyu Zhu</title>
+    <link>https://guangyuzhu.rbind.io/publication-type/1/</link>
+      <atom:link href="https://guangyuzhu.rbind.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://guangyuzhu.rbind.io/media/logo_hu2a24678e1b222f3f1f008b9e470ce441_14757_300x300_fit_lanczos_3.png</url>
+      <title>1</title>
+      <link>https://guangyuzhu.rbind.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Motion-Prediction-based Wireless Scheduling for Multi-User Panoramic Video Streaming</title>
+      <link>https://guangyuzhu.rbind.io/publication/chen-2021-motion/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://guangyuzhu.rbind.io/publication/chen-2021-motion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

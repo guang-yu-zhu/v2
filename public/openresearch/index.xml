@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open research: why it matters, and how I try to support it | Guangyu Zhu</title>
+    <link>https://guangyuzhu.rbind.io/openresearch/</link>
+      <atom:link href="https://guangyuzhu.rbind.io/openresearch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open research: why it matters, and how I try to support it</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://guangyuzhu.rbind.io/media/logo_hu2a24678e1b222f3f1f008b9e470ce441_14757_300x300_fit_lanczos_3.png</url>
+      <title>Open research: why it matters, and how I try to support it</title>
+      <link>https://guangyuzhu.rbind.io/openresearch/</link>
+    </image>
+    
+  </channel>
+</rss>

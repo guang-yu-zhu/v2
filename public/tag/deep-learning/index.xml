@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Guangyu Zhu</title>
+    <link>https://guangyuzhu.rbind.io/tag/deep-learning/</link>
+      <atom:link href="https://guangyuzhu.rbind.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Mar 2021 17:57:03 -0500</lastBuildDate>
+    <image>
+      <url>https://guangyuzhu.rbind.io/media/logo_hu2a24678e1b222f3f1f008b9e470ce441_14757_300x300_fit_lanczos_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://guangyuzhu.rbind.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Deep-gKnock</title>
+      <link>https://guangyuzhu.rbind.io/project/deepgknock/</link>
+      <pubDate>Tue, 09 Mar 2021 17:57:03 -0500</pubDate>
+      <guid>https://guangyuzhu.rbind.io/project/deepgknock/</guid>
+      <description>&lt;p&gt;Feature selection is central to contemporary high-dimensional data analysis. Group structure among features arises naturally in various scientific problems. Many methods have been proposed to incorporate the group structure information into feature selection. However, these methods are normally restricted to a linear regression setting. To relax the linear constraint, we design a new Deep Neural Network (DNN) architecture and integrating it with the recently proposed knockoff technique to perform nonlinear group-feature selection with controlled group-wise False Discovery Rate (gFDR).&lt;/p&gt;
+&lt;h3 id=&#34;procedure&#34;&gt;Procedure&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Generating group knockoff features;&lt;/li&gt;
+&lt;li&gt;Incorporating original features and group knockoff features into a designed DNN architecture. The DNN structure is built upon an MLP with the major distinction that it has a plugin Group-feature Competing Layer.&lt;/li&gt;
+&lt;li&gt;Computing knockoff statistics and filtering out the unimportant groups.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;contribution&#34;&gt;Contribution&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;End-to-end group-wise feature selection and deep representations.&lt;/li&gt;
+&lt;li&gt;Learned neural networks with enhanced interpretability and reproducibility.&lt;/li&gt;
+&lt;li&gt;More computationally feasible neural network.&lt;/li&gt;
+&lt;li&gt;Superior performance in terms of power and controlled gFDR in both linear and nonlinear settings for high-dimensional synthetic and real world genome-wide association studies in the $p\gg n$ regime.&lt;/li&gt;
+&lt;li&gt;Comprehensive experimental results to characterize the performance of our approach with varying key parameters, model architecture changes and robustness to model misspecification.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
